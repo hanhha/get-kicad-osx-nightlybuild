@@ -1,0 +1,18 @@
+; This file must be revised to match the system
+; "current" fields can be left 0. This will make the script download latest revision of kicad at first run.
+
+[link]
+webfolder_link = http://downloads.kicad-pcb.org/osx/
+
+[extras]
+current = 0 
+
+[kicad]
+current = 0
+
+[command]
+download = <path to wget or any similar command line tool for download task>
+
+[directory]
+download_folder = <Your download folder without double quotes or single quotes> 
+
