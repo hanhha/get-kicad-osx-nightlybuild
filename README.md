@@ -1,8 +1,8 @@
 # get-kicad-osx-nightlybuild
-Requirements:
+## Requirements:
 	* Python 2.x
-Configurations:
+## Configurations:
 	* Edit config.ini to match your system. This file should be self explained.
-Run:
+## Run:
 	$python monitor_kicad.py
 
